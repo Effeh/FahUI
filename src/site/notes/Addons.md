@@ -12,7 +12,7 @@ Nicer chat frame
 Extremely convenient radial menu addon. Default rings are: F4 for consumables (not yet configured until Dragonflight) F5 for convenience features (hearthstones/banks/teleports/mailboxes/etc) and F6 for the rest of the wormholes/travel, F7 for raid markers.
 
 ## [Plater](https://www.curseforge.com/wow/addons/plater-nameplates)
-Nameplates
+Nameplates.
 
 ## [AdvancedInterfaceOptions](https://www.curseforge.com/wow/addons/advancedinterfaceoptions)
 Allows easy access to lots of hidden cvars
